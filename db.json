@@ -15,6 +15,20 @@
       "uses": 2
     }
     ],
+  "villains": [
+    {
+    "id": 1,
+    "name": "The Man"
+    },
+    {
+    "id": 2,
+    "name": "The Big Man"
+    },
+    {
+    "id": 3,
+    "name": "The Even Bigger Man"
+    }
+  ]
   "profile": {
     "name": "Xander-Rouse"
   }
