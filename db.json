@@ -9,9 +9,9 @@
     },
     {
       "id": 2,
-      "name": "John Carmack",
-      "minDice": 4,
-      "maxDice": 8,
+      "name": "Superman",
+      "minDice": 10,
+      "maxDice": 20,
       "uses": 2
     }
     ],
