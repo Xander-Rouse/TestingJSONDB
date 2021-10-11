@@ -1,5 +1,5 @@
 {
-  "heroes": {
+  "heroes": [
     {
       "id": 1,
       "name": "Captain Swinburne",
@@ -14,7 +14,7 @@
       "maxDice": 8,
       "uses": 2
     },
-    },
+    ],
   "profile": {
     "name": "ubkychin"
   }
