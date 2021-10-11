@@ -1,5 +1,5 @@
 {
-  "heroes": [
+  "heroes": {
     {
       "id": 1,
       "name": "Captain Swinburne",
@@ -12,9 +12,9 @@
       "name": "John Carmack",
       "minDice": 4,
       "maxDice": 8,
-      "uses": 2,
-    }
-  ],
+      "uses": 2
+    },
+    },
   "profile": {
     "name": "ubkychin"
   }
