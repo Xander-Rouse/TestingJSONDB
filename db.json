@@ -2,31 +2,38 @@
   "heroes": [
     {
       "id": 1,
-      "name": "Captain Swinburne",
+      "name": "Kip",
       "minDice": 1,
-      "maxDice": 6,
-      "uses": 2
+      "maxDice": 5,
+      "uses": 3
     },
     {
       "id": 2,
-      "name": "Superman",
-      "minDice": 10,
-      "maxDice": 20,
+      "name": "Kat",
+      "minDice": 2,
+      "maxDice": 9,
+      "uses": 2
+    },
+    {
+      "id": 3,
+      "name": "Rick",
+      "minDice": 4,
+      "maxDice": 10,
       "uses": 2
     }
     ],
   "villains": [
     {
     "id": 1,
-    "name": "The Man"
+    "name": "Kaiba"
     },
     {
     "id": 2,
-    "name": "The Big Man"
+    "name": "RoR2"
     },
     {
     "id": 3,
-    "name": "The Even Bigger Man"
+    "name": "Discord"
     }
   ]
 }
